@@ -7,5 +7,5 @@ Let $C(n)$ be the number of squarefree integers of the form $x^2 + 1$ such that 
 After some hours trying to solve the problem, the final algorithm can not solve this equation, because of limitation in the available memory.
 
 The problem will be left for future improving
-![image](https://github.com/eduardomottoni/Square-1-Squarefree/assets/56644658/43d5427f-16b9-4b65-ab9f-416592f6f5d2)
-![image](https://github.com/eduardomottoni/Square-1-Squarefree/assets/56644658/7e147bd4-016d-4ea2-af55-0e6f614c444d)
+![image](https://github.com/eduardomottoni/Square-1-Squarefree/assets/56644658/bd07ff21-aa9f-4362-a524-871462231941)
+![image](https://github.com/eduardomottoni/Square-1-Squarefree/assets/56644658/b091487d-72fa-479d-b34a-015641a46aa8)
